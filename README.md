@@ -1,4 +1,3 @@
-# kaberere.github.io
 # MY MARKDOWN PROJECT
 ## ***Everlyne Kaberere|Kenyan|Lover of life.***
 

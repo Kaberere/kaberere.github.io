@@ -1,0 +1,32 @@
+* {
+	background-image: url("http://www.juniorconsulting.be/img/bg_about.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.contact_me {
+	font-style: italic;
+	font-weight: 30px;
+	font-color: #000000;
+	text-align: center;
+}
+ h1 {
+ 	font-size: 35px;
+ 	color: #34282C;
+ 	margin-top: 4%;
+ }
+ .phone span {
+ 	float: right;
+ 	margin-top: 25px;
+ 	margin-right: 78%;
+ }
+  #footer {
+ 	font-size: 15px;
+ 	font-weight: 20px;
+ 	font-style: bold;
+ }
+ .email {
+ 	font-style: italic;
+ 	text-align: center;
+ 	font-weight: 30px;
+ }
+ /*http://shakeandbakeentertainment.com/wp-content/uploads/web-design-beach-twitter-background.jpg*/

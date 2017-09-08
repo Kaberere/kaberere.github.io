@@ -1,0 +1,61 @@
+.topnav {
+    background-color: #666362;
+    overflow: hidden;
+ }
+ .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+ }
+ .about {
+ 	width: 55%;
+ 	height: auto;
+ 	font-family: 'Palatino';
+ }
+.hacker {
+	background-image: url("http://bestescaperoomsmallorca.com/wp-content/uploads/2016/08/hacker-room_v2-1024x512.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	float: right;
+	margin-top: -20%;
+	margin-right: 3%;
+	border-radius: 50%;
+	width: 270px;
+	height: 270px;
+}
+.Eve {
+	background-image: url("Dope.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	float: right;
+	margin-top: -10%;
+	margin-left: 2%;
+	border-radius: 50%;
+	width: 280px;
+	height: 280px;
+}
+.entertainment {
+	background-image: url("http://alliswall.com/file/3988/1920x1200/16:9/amazing-dance-moves-graphic.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	float: right;
+	margin-top: -105;
+	border-radius: 50%;
+	width: 270px;
+	height: 270px;
+}
+h1{
+	color: #808000;
+}
